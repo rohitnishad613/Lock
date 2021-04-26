@@ -3,7 +3,7 @@ One touch to lock your android screen.
 
 ## Setup
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use git to clone.
 
 ```bash
 $ git clone https://github.com/rohitnishad613/Lock.git
